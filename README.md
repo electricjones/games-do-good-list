@@ -56,3 +56,12 @@ This is a short list of quality, evidence based pieces that disagree.
 - “**[Overstated Evidence for Short-Term Effects of Violent Games on Affect and Behavior](https://doi.org/10/gbk2db)** A Reanalysis of Anderson et Al. (2010).” Hilgard, Joseph, Christopher R. Engelhardt, and Jeffrey N. Rouder. Psychological Bulletin 143, no. 7 (2017): 757–74.
 - “**[Violent Video Games and Real-World Violence: Rhetoric versus Data.](https://doi.org/10/gd4txx)**” Markey, Patrick M., Charlotte N. Markey, and Juliana E. French. Psychology of Popular Media Culture 4, no. 4 (2015): 277–95.
 - (Supreme Court Decision) Justice Scalia. **[Brown v. Entertainment Merchants Assn.](https://en.wikipedia.org/wiki/Brown_v._Entertainment_Merchants_Ass%27n)** ( Justice Scalia , Opinion of the Court ), U.S. (U.S. Supreme Court 2011).
+
+## Contribute
+Contributions welcome! Read the [contribution guidelines](contributing.md) first.
+
+## License
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](http://creativecommons.org/publicdomain/zero/1.0)
+
+To the extent possible under law, Michael Wilson has waived all copyright and
+related or neighboring rights to this work.

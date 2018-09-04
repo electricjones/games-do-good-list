@@ -23,6 +23,12 @@ You'll need a [GitHub account](https://github.com/join)!
 5. Say why you're proposing the changes, and then click on "Propose file change". ![Step 5 - Propose Changes](https://cloud.githubusercontent.com/assets/170270/9402937/7dd0652a-480c-11e5-9138-bd14244593d5.png)
 6. Submit the [pull request](https://help.github.com/articles/using-pull-requests/)!
 
-## Updating your Pull Request
 
+### A Couple Notes
+- Use the "Chicago Manual of Style 17th Edition." The only difference is to make the title (or the first part of a long title) the link, and don't have the link at the end of the citation.
+- Journals must be reputable. I hold the final say. We have enough of a battle to fight without bringing criticisms of under-par research.
+- If you include a brief summary of the work, keep it brief and non-technical.
+- Just try to make it look like the ones surrounding it ;)
+
+## Updating your Pull Request
 If changes to your Pull request are requested, [here](https://github.com/RichardLitt/knowledge/blob/master/github/amending-a-commit-guide.md) is a write up on how to change a Pull Request, and the different ways you can do that.

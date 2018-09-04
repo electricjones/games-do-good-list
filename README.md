@@ -21,14 +21,15 @@ These are peer-reviewed, methodologically sound studies from a variety of discip
     The research found that participants showed stronger connectivity in the brain networks that are related to empathy and taking perspective. 
     Some showed stronger neural networks that are linked to emotion regulation.
     - See [A video game can change the brain, may improve empathy in middle schoolers](https://news.wisc.edu/a-video-game-can-change-the-brain-may-improve-empathy-in-middle-schoolers/) for an official introduction and news write-up of the game and research.
-
-## News Articles and Corroborated Stories
-Games are powerful. This is a collection of news articles and personal stories about the power of games to do **good**.
+- **[“Digital Game-Based Education for Syrian Refugee Children: Project Hope.”](https://doi.org/10/gd4t58)** Sirin, Selcuk, Jan L. Plass, Bruce D. Homer, Sinem Vatanartiran, and Tzuchi Tsai. Vulnerable Children and Youth Studies 13, no. 1 (January 2, 2018): 7–18.
+    - "Computer games such as Minecraft teach Syrian children new language and coding skills and boost morale in refugee camps, according to new research." See [Research: Video Games Deliver Hope to Syrian Refugees](https://www.voanews.com/a/video-games-deliver-hope-syrian-refugees-research/3892587.html) for an introductory write-up
 
 ## Non Academic
 As a researcher I value evidence-based, peer-reviewed studies.
 But, there is enormous value in anecdotal pieces, reviews, and more introductory articles and videos.
 These may not be peer-reviewed, but they are all of high quality, produced or written by experts, professionals, and enthusiasts of the highest caliber.
+
+- **[Video Games are good for you: The Positive Effects of Video Games.](https://venturebeat.com/community/2012/10/04/video-games-are-good-for-you-the-positive-effects-of-video-games/)**
 
 ### [Extra Credits](https://www.youtube.com/channel/UCCODtTcd5M1JavPCOr_Uydg) - YouTube
 The premier YouTube channel on all things videogames from a serious perspective. 

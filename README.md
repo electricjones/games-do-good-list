@@ -23,13 +23,19 @@ These are peer-reviewed, methodologically sound studies from a variety of discip
     - See [A video game can change the brain, may improve empathy in middle schoolers](https://news.wisc.edu/a-video-game-can-change-the-brain-may-improve-empathy-in-middle-schoolers/) for an official introduction and news write-up of the game and research.
 - **[“Digital Game-Based Education for Syrian Refugee Children: Project Hope.”](https://doi.org/10/gd4t58)** Sirin, Selcuk, Jan L. Plass, Bruce D. Homer, Sinem Vatanartiran, and Tzuchi Tsai. Vulnerable Children and Youth Studies 13, no. 1 (January 2, 2018): 7–18.
     - "Computer games such as Minecraft teach Syrian children new language and coding skills and boost morale in refugee camps, according to new research." See [Research: Video Games Deliver Hope to Syrian Refugees](https://www.voanews.com/a/video-games-deliver-hope-syrian-refugees-research/3892587.html) for an introductory write-up
+- **[“Is Time Spent Playing Video Games Associated with Mental Health, Cognitive and Social Skills in Young Children?”](https://doi.org/10/f8f32q)** Kovess-Masfety, Viviane, Katherine Keyes, Ava Hamilton, Gregory Hanson, Adina Bitfoi, Dietmar Golitz, Ceren Koç, et al. Social Psychiatry and Psychiatric Epidemiology 51, no. 3 (March 1, 2016): 349–57.
+    - See [Time Spent Playing Video Games May Have Positive Effects on Young Children](https://www.mailman.columbia.edu/public-health-now/news/time-spent-playing-video-games-may-have-positive-effects-young-children) for a good introductory write-up of the research.     - “Video game playing is often a collaborative leisure time activity for school-aged children. These results indicate that children who frequently play video games may be socially cohesive with peers and integrated into the school community.  We caution against over interpretation, however, as setting limits on screen usage remains and important component of parental responsibility as an overall strategy for student success"
+- **[“The Link Between Playing Video Games and Positive Youth Outcomes.”](https://doi.org/10/gcp82d)** Adachi, Paul J. C., and Teena Willoughby. Child Development Perspectives 11, no. 3 (September 1, 2017): 202–6.
+
 
 ## Non Academic
 As a researcher I value evidence-based, peer-reviewed studies.
-But, there is enormous value in anecdotal pieces, reviews, and more introductory articles and videos.
+But, there is enormous value in interviews, reviews, news stories, and introductory articles and videos.
 These may not be peer-reviewed, but they are all of high quality, produced or written by experts, professionals, and enthusiasts of the highest caliber.
 
 - **[Video Games are good for you: The Positive Effects of Video Games.](https://venturebeat.com/community/2012/10/04/video-games-are-good-for-you-the-positive-effects-of-video-games/)**
+- **[The Positive Effects of Video Games on Children](https://www.nerdmuch.com/games/148946/positive-effects-video-games-children/)** is a good review of some recent studies.
+- **[How video games affect the brain](https://www.medicalnewstoday.com/articles/318345.php)** is a review of brain-training games from [Medical News Today](http://www.medicalnewstoday.com) and includes references to academic material.
 
 ### [Extra Credits](https://www.youtube.com/channel/UCCODtTcd5M1JavPCOr_Uydg) - YouTube
 The premier YouTube channel on all things videogames from a serious perspective. 

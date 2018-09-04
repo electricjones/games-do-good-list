@@ -45,7 +45,7 @@ The professional team with years of game making and playing experience has been 
     - This video's primary focus is a critique of a game that crosses the line from violence to sadism. 
     But, in the first half and the last bit, it details (beautifully) the cathartic power of games and a well-crafted game's ability to help us process and manage our emotions.
 
-## Putting the "Games are Bad" Myth to Rest
+## What About "Games are Bad?"
 Unfortunately, we often hear of the tragic effects videogames have on people, especially children.
 This is a short list of quality, evidence based pieces that disagree.
 

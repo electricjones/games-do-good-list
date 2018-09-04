@@ -25,7 +25,8 @@ You'll need a [GitHub account](https://github.com/join)!
 
 
 ### A Couple Notes
-- Use the "Chicago Manual of Style 17th Edition." The only difference is to make the title (or the first part of a long title) the link, and don't have the link at the end of the citation.
+- Use the "Chicago Manual of Style 17th Edition." 
+    - The only differences are to make the title (or the first part of a long title) the link, don't have the link at the end of the citation, and put the title first.
 - Journals must be reputable. I hold the final say. We have enough of a battle to fight without bringing criticisms of under-par research.
 - If you include a brief summary of the work, keep it brief and non-technical.
 - Just try to make it look like the ones surrounding it ;)

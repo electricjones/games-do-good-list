@@ -1,14 +1,13 @@
 # Games Do Good
 > Suggest changes as a Pull Request to the `master` branch on [github](https://github.com/electricjones/games-do-good-list) see [CONTRIBUTING.md](https://github.com/electricjones/games-do-good-list/blob/master/LICENSE)
 
-We often hear of potentials dangers games: people getting lost in fantasy, encouraging violence, loss of ambition, and on and on.
+We often hear of potentials dangers games: people getting lost in fantasy, encouraging violence, loss of ambition, addiction, and on and on.
 
-These are the evidence-based and powerful voices on the other side.
-This list is a clearly one-sided collection of articles, stories, and research studies that show positive effects of videogames.
+This list represents evidence-based and powerful voices on the other side -- a collection of articles, stories, and research studies that show positive effects of videogames.
 
 It is *not* a comprehensive list. It is *not* meant to be a full literature review. It is *not* authoritative. It does *not* claim to be unbiased.
 
-But, this list *is* a collection of sound research that shows **games do good**, too.
+But, this list *is* a collection of sound research that shows **games do good**.
 
 We all knew it.
 
@@ -29,21 +28,24 @@ These are peer-reviewed, methodologically sound studies from a variety of discip
 
 
 ## Non Academic
-As a researcher I value evidence-based, peer-reviewed studies.
-But, there is enormous value in interviews, reviews, news stories, and introductory articles and videos.
-These may not be peer-reviewed, but they are all of high quality, produced or written by experts, professionals, and enthusiasts of the highest caliber.
+There is enormous value in interviews, reviews, news stories, and introductory articles and videos.
+These pieces may not be peer-reviewed, but they are all high quality, produced or written by experts, professionals, and enthusiasts.
 
 - **[Video Games are good for you: The Positive Effects of Video Games.](https://venturebeat.com/community/2012/10/04/video-games-are-good-for-you-the-positive-effects-of-video-games/)**
 - **[The Positive Effects of Video Games on Children](https://www.nerdmuch.com/games/148946/positive-effects-video-games-children/)** is a good review of some recent studies.
 - **[How video games affect the brain](https://www.medicalnewstoday.com/articles/318345.php)** is a review of brain-training games from [Medical News Today](http://www.medicalnewstoday.com) and includes references to academic material.
+- **[Can Video Games Make You Smarter?](https://www.youtube.com/watch?v=OOsqkQytHOs)** an overview of significant scientific studies that present how various video games and genres increase congnitive abilities and coping strategies.
 
 ### [Extra Credits](https://www.youtube.com/channel/UCCODtTcd5M1JavPCOr_Uydg) - YouTube
 The premier YouTube channel on all things videogames from a serious perspective. 
-The professional team with years of game making and playing experience has been doing deep dives into game topics for more than five years.
+The professional team with years of game making and playing experience has been doing deep dives into game topics for more than seven years.
 
 - **[Hatred - Crossing the Line from Violence to Sadism](https://www.youtube.com/watch?v=s6xQlnzffRg)**
     - This video's primary focus is a critique of a game that crosses the line from violence to sadism. 
     But, in the first half and the last bit, it details (beautifully) the cathartic power of games and a well-crafted game's ability to help us process and manage our emotions.
+    
+- **[Moving Forward - Games That Do Good ](https://www.youtube.com/watch?v=AW0o2PmmRXw)**
+    - A conversation and exploration about the power of games for good including in scientific research, bridging cultural divides, education, and more. A serious proposal to spread the good about games instead of being "reactionary" when games come under fire.
 
 ## What About "Games are Bad?"
 Unfortunately, we often hear of the tragic effects videogames have on people, especially children.

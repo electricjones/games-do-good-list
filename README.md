@@ -25,7 +25,11 @@ These are peer-reviewed, methodologically sound studies from a variety of discip
 - **[“Is Time Spent Playing Video Games Associated with Mental Health, Cognitive and Social Skills in Young Children?”](https://doi.org/10/f8f32q)** Kovess-Masfety, Viviane, Katherine Keyes, Ava Hamilton, Gregory Hanson, Adina Bitfoi, Dietmar Golitz, Ceren Koç, et al. Social Psychiatry and Psychiatric Epidemiology 51, no. 3 (March 1, 2016): 349–57.
     - See [Time Spent Playing Video Games May Have Positive Effects on Young Children](https://www.mailman.columbia.edu/public-health-now/news/time-spent-playing-video-games-may-have-positive-effects-young-children) for a good introductory write-up of the research.     - “Video game playing is often a collaborative leisure time activity for school-aged children. These results indicate that children who frequently play video games may be socially cohesive with peers and integrated into the school community.  We caution against over interpretation, however, as setting limits on screen usage remains and important component of parental responsibility as an overall strategy for student success"
 - **[“The Link Between Playing Video Games and Positive Youth Outcomes.”](https://doi.org/10/gcp82d)** Adachi, Paul J. C., and Teena Willoughby. Child Development Perspectives 11, no. 3 (September 1, 2017): 202–6.
-
+- **[“Playing Super Mario induces structural brain plasticity: Grey matter changes resulting from training with a commercial video game.”](https://www.nature.com/articles/mp2013120)** Kühn, S., Gleich, T., Lorenz, R. C., Lindenberger, U., Gallinat, J. Molecular Psychiatry advance online publication 29 October 2013;  doi: 10.1038/mp.2013.120
+- **[Video game training enhances cognitive control in older adults](https://www.nature.com/articles/nature12486)** J. A. Anguera, J. Boccanfuso, J. L. Rintoul, O. Al-Hashimi, F. Faraji, J. Janowich, E. Kong, Y. Larraburo, C. Rolle, E. Johnston & A. Gazzaley. Nature volume 501, pages 97–101 (05 September 2013)
+- **[Virtual Reality Pain Reduction](http://www.hitl.washington.edu/projects/vrpain/)** University of Washington Seattle and U.W. Harborview Burn Center
+- **[Play to Become a Surgeon: Impact of Nintendo WII Training on Laparoscopic Skills](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0057372)** Domenico Giannotti, Gregorio Patrizi , Giorgio Di Rocco, Anna Rita Vestri, Camilla Proietti Semproni, Leslie Fiengo, Stefano Pontone, Giorgio Palazzini, Adriano Redler. PLOS One (February 27, 2013https://doi.org/10.1371/journal.pone.0057372). 
+- **[Real-Time Strategy Game Training: Emergence of a Cognitive Flexibility Trait](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0070350)** Brian D. Glass, W. Todd Maddox, Bradley C. Love. PLOS One (August 7, 2013https://doi.org/10.1371/journal.pone.0070350). 
 
 ## Non Academic
 There is enormous value in interviews, reviews, news stories, and introductory articles and videos.
@@ -35,6 +39,8 @@ These pieces may not be peer-reviewed, but they are all high quality, produced o
 - **[The Positive Effects of Video Games on Children](https://www.nerdmuch.com/games/148946/positive-effects-video-games-children/)** is a good review of some recent studies.
 - **[How video games affect the brain](https://www.medicalnewstoday.com/articles/318345.php)** is a review of brain-training games from [Medical News Today](http://www.medicalnewstoday.com) and includes references to academic material.
 - **[Can Video Games Make You Smarter?](https://www.youtube.com/watch?v=OOsqkQytHOs)** an overview of significant scientific studies that present how various video games and genres increase congnitive abilities and coping strategies.
+- **[Why Video Games Can be Good for You](https://www.gamedesigning.org/why-video-games-are-good/)** A list of 10 positive effects games can have, each with solid sources.
+- **[Yes, Video Games are Good...for Your Mind and Body](https://www.idtech.com/blog/video-games-are-good-for-you)** A detailed, but accessible description of the positive effects gaming can have on the body, brain, and mind. All with sources.
 
 ### [Extra Credits](https://www.youtube.com/channel/UCCODtTcd5M1JavPCOr_Uydg) - YouTube
 The premier YouTube channel on all things videogames from a serious perspective. 

@@ -41,6 +41,7 @@ These pieces may not be peer-reviewed, but they are all high quality, produced o
 - **[Can Video Games Make You Smarter?](https://www.youtube.com/watch?v=OOsqkQytHOs)** an overview of significant scientific studies that present how various video games and genres increase congnitive abilities and coping strategies.
 - **[Why Video Games Can be Good for You](https://www.gamedesigning.org/why-video-games-are-good/)** A list of 10 positive effects games can have, each with solid sources.
 - **[Yes, Video Games are Good...for Your Mind and Body](https://www.idtech.com/blog/video-games-are-good-for-you)** A detailed, but accessible description of the positive effects gaming can have on the body, brain, and mind. All with sources.
+- **[Why Dungeons & Dragons is Good for You (In Real Life)](https://www.youtube.com/watch?v=6PaHJqpQnyw)** A TED Talk
 
 ### [Extra Credits](https://www.youtube.com/channel/UCCODtTcd5M1JavPCOr_Uydg) - YouTube
 The premier YouTube channel on all things videogames from a serious perspective. 

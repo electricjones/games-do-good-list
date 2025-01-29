@@ -7,7 +7,7 @@ This list represents evidence-based and powerful voices on the other side -- a c
 
 It is *not* a comprehensive list. It is *not* meant to be a full literature review. It is *not* authoritative. It does *not* claim to be unbiased.
 
-But, this list *is* a collection of sound research that shows **games do good**.
+But, this list *is* a collection of sound research that shows **games do good**. That said **please note** that research is ever changing. If something here has been discredited, disproven, or shown to be problematic, please open a pull request.
 
 We all knew it.
 
@@ -30,6 +30,8 @@ These are peer-reviewed, methodologically sound studies from a variety of discip
 - **[Virtual Reality Pain Reduction](http://www.hitl.washington.edu/projects/vrpain/)** University of Washington Seattle and U.W. Harborview Burn Center
 - **[Play to Become a Surgeon: Impact of Nintendo WII Training on Laparoscopic Skills](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0057372)** Domenico Giannotti, Gregorio Patrizi , Giorgio Di Rocco, Anna Rita Vestri, Camilla Proietti Semproni, Leslie Fiengo, Stefano Pontone, Giorgio Palazzini, Adriano Redler. PLOS One (February 27, 2013https://doi.org/10.1371/journal.pone.0057372). 
 - **[Real-Time Strategy Game Training: Emergence of a Cognitive Flexibility Trait](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0070350)** Brian D. Glass, W. Todd Maddox, Bradley C. Love. PLOS One (August 7, 2013https://doi.org/10.1371/journal.pone.0070350). 
+- **[Seligman’s PERMA Model in Video Games – The Positive Influence of Video Games on Well-Being](https://link.springer.com/chapter/10.1007/978-981-99-8248-6_4)** Wagener, G.L., Melzer, A. (2023). Seligman’s PERMA Model in Video Games – The Positive Influence of Video Games on Well-Being. In: Ciancarini, P., Di Iorio, A., Hlavacs, H., Poggi, F. (eds) Entertainment Computing – ICEC 2023. ICEC 2023. Lecture Notes in Computer Science, vol 14455. Springer, Singapore. https://doi.org/10.1007/978-981-99-8248-6_4
+- **[Exploring the possible mental health and wellbeing benefits of video games for adult players](https://journals.sagepub.com/doi/full/10.1177/10398562221103081)** Hazel J, Kim HM, Every-Palmer S. Exploring the possible mental health and wellbeing benefits of video games for adult players: A cross-sectional study. Australasian Psychiatry. 2022;30(4):541-546. doi:10.1177/10398562221103081
 
 ## Non Academic
 There is enormous value in interviews, reviews, news stories, and introductory articles and videos.
@@ -42,6 +44,11 @@ These pieces may not be peer-reviewed, but they are all high quality, produced o
 - **[Why Video Games Can be Good for You](https://www.gamedesigning.org/why-video-games-are-good/)** A list of 10 positive effects games can have, each with solid sources.
 - **[Yes, Video Games are Good...for Your Mind and Body](https://www.idtech.com/blog/video-games-are-good-for-you)** A detailed, but accessible description of the positive effects gaming can have on the body, brain, and mind. All with sources.
 - **[Why Dungeons & Dragons is Good for You (In Real Life)](https://www.youtube.com/watch?v=6PaHJqpQnyw)** A TED Talk
+- **[Research shows playing first-person shooters improves learning abilities, cognitive function](https://www.polygon.com/2013/1/30/3932876/research-playing-first-person-shooters-improves-learning-abilities-cognitive-function)** This article from Polygon discusses studies indicating that playing first-person action games can enhance cognitive abilities and learning skills.
+- **[The benefits of video games](https://www.sciencefocus.com/the-human-body/the-benefits-of-video-games-why-screen-time-isnt-always-bad)** BBC Science Focus Magazine - The positive impacts of video games, including their therapeutic uses and potential to foster social connections. 
+- **[What Gaming Does to Your Brain—and How You Might Benefit](https://www.wired.com/story/what-gaming-does-to-your-brain-how-you-might-benefit/)** WIRED - Cognitive advantages of playing video games, such as enhanced problem-solving skills, improved attention, and increased mental agility.
+- **[Seven reasons why grown ups should play more video games](https://www.theguardian.com/technology/2017/jan/05/why-grown-ups-should-play-more-video-games)** The Guardian - Various benefits of video gaming for adults, including cognitive improvements, stress relief, and social connections.
+
 
 ### [Extra Credits](https://www.youtube.com/channel/UCCODtTcd5M1JavPCOr_Uydg) - YouTube
 The premier YouTube channel on all things videogames from a serious perspective. 
